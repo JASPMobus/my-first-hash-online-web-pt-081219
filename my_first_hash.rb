@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {quest: => "To seek the Holy Grail"}
+  my_hash = {:quest => "To seek the Holy Grail"}
 end
 
 
