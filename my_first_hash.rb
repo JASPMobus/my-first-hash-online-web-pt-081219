@@ -5,9 +5,9 @@ end
 
 def shipping_manifest
   the_manifest = {}
-  the_manifest["corsets"] => 5
-  the_manifest["vases"] => 2
-  the_manifest["paintings"] => 3
+  the_manifest["corsets"] = 5
+  the_manifest["vases"] = 2
+  the_manifest["paintings"] = 3
 end
 
 def retrieval
